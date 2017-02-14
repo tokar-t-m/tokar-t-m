@@ -5,6 +5,6 @@ title: No records!
 
 No text!
 
-![_config.yml]
+![_config.yml]({{ site.baseurl }})
 
 No read more.
