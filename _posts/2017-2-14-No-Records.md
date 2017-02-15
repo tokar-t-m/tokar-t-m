@@ -1,10 +1,15 @@
 ---
 layout: post
-title: No records!
+title: C++ Primer (5th Edition) 
 ---
+Этот пост содержит запрограммированные задания из книги Стенли Б. Липпман, Жози Лажойе, Барбара Э. Му - Язык программирования C++. Базовый курс ([Ссылка на книгу](http://www.williamspublishing.com/Books/978-5-8459-1839-0.html)).  
+Задания будут заливаться по мере выполнения.  
+![_config.yml]({{ site.baseurl }}/images/lippman_book.jpg)
 
-No text!
+Часть 1  
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+Часть 2  
 
-No read more.
+Часть 3  
+
+Часть 4  
