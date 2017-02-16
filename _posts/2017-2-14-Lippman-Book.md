@@ -6,12 +6,12 @@ title: C++ Primer (5th Edition)
 
 ![_config.yml]({{ site.baseurl }}/images/lippman_book.jpg)   
 
-Часть 1  
-
-Часть 2  
-
-Часть 3  
-
-Часть 4  
-
+Часть 1:  
+[GitLink](https://github.com/tokar-t-m/lippman/tree/master/Part_1)  
+Часть 2:  
+[GitLink](https://github.com/tokar-t-m/lippman/tree/master/Part_2)  
+Часть 3:  
+[GitLink](https://github.com/tokar-t-m/lippman/tree/master/Part_3)  
+Часть 4:  
+[Отсутствует](https://github.com/tokar-t-m/lippman/tree/master/Part_4)  
 PS Задания будут заливаться по мере выполнения.  
