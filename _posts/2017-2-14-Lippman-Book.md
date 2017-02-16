@@ -13,5 +13,5 @@ Part 2:
 Part 3:  
 [GitLink](https://github.com/tokar-t-m/lippman/tree/master/Part_3)  
 Part 4:  
-[Отсутствует](https://github.com/tokar-t-m/lippman/tree/master/Part_4)  
+[Not GitLink](https://github.com/tokar-t-m/lippman/tree/master/Part_4)  
 PS Задания будут заливаться по мере выполнения.  
