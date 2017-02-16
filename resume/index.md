@@ -4,6 +4,8 @@ title: Resume
 permalink: /resume/
 ---
 
+##Timur Mikhailovich Tokar, 23 years
+
 ### Education
 
 1. Moscow State University of Economics Statistics and Informatics (2009 - 2013), Speciality: Software computer technology and automated systems;
