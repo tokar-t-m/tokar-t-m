@@ -24,5 +24,5 @@ Lab 7:
 [GitLink](https://github.com/tokar-t-m/university_labs/tree/master/OOP/Lab7)  
 Lab 8:  
 [GitLink](https://github.com/tokar-t-m/university_labs/tree/master/OOP/Lab8)  
-Lab 8:  
+Lab 9:  
 [GitLink](https://github.com/tokar-t-m/university_labs/tree/master/OOP/Lab9)
