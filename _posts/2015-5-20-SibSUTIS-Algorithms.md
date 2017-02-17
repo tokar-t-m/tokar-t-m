@@ -5,7 +5,7 @@ title: SibSUTIS Labs - SAOD
 
 Пост содержит выполненные лабораторные работы по предмету "Структуры и алгоритмы обработки данных".
 
-
+![_config.yml]({{ site.baseurl }}/images/algorithm.jpg)  
 
 Лабораторные работы:  
 Red-Black-Tree, RB-Tree:  
