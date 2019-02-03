@@ -4,7 +4,7 @@ title: Resume
 permalink: /resume/
 ---
 
-## Timur Mikhailovich Tokar, 23 years
+## Timur Mikhailovich Tokar, 25 years
 
 ### Education
 
